@@ -14,7 +14,7 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 -->
 # Reporting a Vulnerability 🪲
-Puedes reportar cualquier vulnerabilidad haciendo un "pull requests".
+Puedes reportar cualquier vulnerabilidad haciendo una publicacion en "Issues".
 Este se revisara con cierta frecuencia para tenerlo todo lo mas actualizado posible.
 <!--
 Use this section to tell people how to report a vulnerability.
